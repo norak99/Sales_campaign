@@ -27,6 +27,8 @@ Tento projekt se zaměřuje na vyhodnocení dopadu marketingové kampaně na pro
 ![image](https://github.com/user-attachments/assets/5643eeb1-ee82-41ab-b747-bc0e709cc6ed)
 ![image](https://github.com/user-attachments/assets/eb83c37b-c455-4c52-9a39-0d39109b7863)
 
+## 📂 Zdrojový dataset
+![image](https://github.com/user-attachments/assets/a4130f4d-20a3-4e0c-b224-cab2750b79c9)
 
 ---
 ✉ **Kontakt:**  https://www.linkedin.com/in/novak-matej-/
